@@ -1,0 +1,1 @@
+PASSWORD = "helloworld" # for the purposes of this game, the password doesn't mean anything, it's only necessary if you want to encrypt any script files

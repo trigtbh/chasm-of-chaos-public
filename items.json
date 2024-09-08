@@ -1,0 +1,72 @@
+[
+    {"name": "Echoing Sphere", "rarity": "special", "desc": "A shimmering orb that radiates a constant hum of energy\nThis item is essential to escaping the dungeon.\nIt is permanently bound to your inventory.", "type": "special", "data": {}},
+    {"name": "Flickering Light", "rarity": "special", "desc": "A bright, pulsating light that flickers between different hues and intensities\nThis item is essential to escaping the dungeon.\nIt is permanently bound to your inventory.", "type": "special", "data": {}},
+    {"name": "Timeless Tear", "rarity": "special", "desc": "A single, glistening drop of liquid that seems to defy the passage of time\nThis item is essential to escaping the dungeon.\nIt is permanently bound to your inventory.", "type": "special", "data": {}},
+    {"name": "Glowing Thread", "rarity": "special", "desc": "A thin, radiant strand of light that seems to pulse with energy\nThis item is essential to escaping the dungeon.\nIt is permanently bound to your inventory.", "type": "special", "data": {}},
+    {"name": "Eternal Flame", "rarity": "special", "desc": "A flame that burns for eternity\nThis item is essential to escaping the dungeon.\nIt is permanently bound to your inventory.", "type": "special", "data": {}},
+    
+    {"name": "Tier I Powerup Potion", "rarity": "common", "desc": "Increase your attack power by 10% for the next 3 rooms", "type": "consumable", "data": {"power": 10, "duration": 3}},
+    {"name": "Tier II Powerup Potion", "rarity": "rare", "desc": "Increase your attack power by 50% for the next 3 rooms", "type": "consumable", "data": {"power": 50, "duration": 3}},
+    {"name": "Tier III Powerup Potion", "rarity": "epic", "desc": "Doubles your attack power for the next 3 rooms", "type": "consumable", "data": {"power": 100, "duration": 3}},
+    
+    {"name": "Tier I Precision Potion", "rarity": "common", "desc": "Improves your attack accuracy by 10% for the next 3 rooms", "type": "consumable", "data": {"power": 10, "duration": 3}},
+    {"name": "Tier II Precision Potion", "rarity": "rare", "desc": "Improves your attack accuracy by 25% for the next 3 rooms", "type": "consumable", "data": {"power": 25, "duration": 3}},
+    {"name": "Tier III Precision Potion", "rarity": "epic", "desc": "Improves your attack accuracy by 50% for the next 3 rooms", "type": "consumable", "data": {"power": 50, "duration": 3}},
+    
+    {"name": "Tier I Regeneration Potion", "rarity": "common", "desc": "Heal 10% of your health for the next 3 rooms", "type": "consumable", "data": {"power": 10, "duration": 3}},
+    {"name": "Tier II Regeneration Potion", "rarity": "rare", "desc": "Heal 20% of your health for the next 3 rooms", "type": "consumable", "data": {"power": 20, "duration": 3}},
+    {"name": "Tier III Regeneration Potion", "rarity": "epic", "desc": "Heal 30% of your health for the next 3 rooms", "type": "consumable", "data": {"power": 30, "duration": 3}},
+    
+    {"name": "Tier I Health Potion", "rarity": "common", "desc": "Instantly heals 10% of your health", "type": "consumable", "data": {"power": 10}},
+    {"name": "Tier II Health Potion", "rarity": "rare", "desc": "Instantly heals 25% of your health", "type": "consumable", "data": {"power": 25}},
+    {"name": "Tier III Health Potion", "rarity": "epic", "desc": "Instantly heals 50% of your health", "type": "consumable", "data": {"power": 50}},
+    
+    {"name": "Tier I Hardening Potion", "rarity": "common", "desc": "Strengthens your defense by 10% for the next 3 rooms", "type": "consumable", "data": {"power": 10, "duration": 3}},
+    {"name": "Tier II Hardening Potion", "rarity": "rare", "desc": "Strengthens your defense by 25% for the next 3 rooms", "type": "consumable", "data": {"power": 25, "duration": 3}},
+    {"name": "Tier III Hardening Potion", "rarity": "epic", "desc": "Strengthens your defense by 50% for the next 3 rooms", "type": "consumable", "data": {"power": 50, "duration": 3}},
+    
+    {"name": "Tier I Evasion Potion", "rarity": "common", "desc": "Improves your chances of fleeing by 10% for the next 3 rooms", "type": "consumable", "data": {"power": 10, "duration": 3}},
+    {"name": "Tier II Evasion Potion", "rarity": "rare", "desc": "Improves your chances of fleeing by 20% for the next 3 rooms", "type": "consumable", "data": {"power": 20, "duration": 3}},
+    {"name": "Tier III Evasion Potion", "rarity": "epic", "desc": "Improves your chances of fleeing by 30% for the next 3 rooms", "type": "consumable", "data": {"power": 30, "duration": 3}},
+    
+    {"name": "Leather Helmet", "rarity": "common", "desc": "A lightweight helmet made of leather that offers basic protection against attacks", "type": "armor", "data": {"defense": 1}},
+    {"name": "Leather Chestplate", "rarity": "common", "desc": "A lightweight chestplate made of leather that offers basic protection against attacks", "type": "armor", "data": {"defense": 1}},
+    {"name": "Leather Leggings", "rarity": "common", "desc": "A lightweight set of leather leggings that offers basic protection against attacks", "type": "armor", "data": {"defense": 1}},
+    {"name": "Leather Boots", "rarity": "common", "desc": "A lightweight set of leather boots that offers basic protection against attacks", "type": "armor", "data": {"defense": 1}},
+    
+    {"name": "Chainmail Helmet", "rarity": "common", "desc": "A lightweight helmet made of chainmail that offers basic protection against attacks", "type": "armor", "data": {"defense": 2}},
+    {"name": "Chainmail Chestplate", "rarity": "common", "desc": "A lightweight chestplate made of chainmail that offers basic protection against attacks", "type": "armor", "data": {"defense": 2}},
+    {"name": "Chainmail Leggings", "rarity": "common", "desc": "A lightweight set of chainmail leggings that offers basic protection against attacks", "type": "armor", "data": {"defense": 2}},
+    {"name": "Chainmail Boots", "rarity": "common", "desc": "A lightweight set of chainmail boots that offers basic protection against attacks", "type": "armor", "data": {"defense": 2}},
+    
+    {"name": "Iron Helmet", "rarity": "rare", "desc": "A helmet made of high quality iron, formed from the depths of the earth\nIncreases your damage by 10%", "type": "armor", "data": {"defense": 3, "power": 10}},
+    {"name": "Iron Chestplate", "rarity": "rare", "desc": "A chestplate made of high quality iron, formed from the depths of the earth\nIncreases your damage by 10%", "type": "armor", "data": {"defense": 3, "power": 10}},
+    {"name": "Iron Leggings", "rarity": "rare", "desc": "A set of leggings made of high quality iron, formed from the depths of the earth\nIncreases your damage by 10%", "type": "armor", "data": {"defense": 3, "power": 10}},
+    {"name": "Iron Boots", "rarity": "rare", "desc": "A set of boots made of high quality iron, formed from the depths of the earth\nIncreases your damage by 10%", "type": "armor", "data": {"defense": 3, "power": 10}},
+    
+    {"name": "Obsidian Helmet", "rarity": "rare", "desc": "A helmet of obsidian, cast from the lava of an active volcano\nImproves your chances of fleeing encounters by 5%", "type": "armor", "data": {"defense": 4, "evasion": 5}},
+    {"name": "Obsidian Chestplate", "rarity": "rare", "desc": "A chestplate of obsidian, cast from the lava of an active volcano\nImproves your chances of fleeing encounters by 5%", "type": "armor", "data": {"defense": 4, "evasion": 5}},
+    {"name": "Obsidian Leggings", "rarity": "rare", "desc": "A set of leggings of obsidian, cast from the lava of an active volcano\nImproves your chances of fleeing encounters by 5%", "type": "armor", "data": {"defense": 4, "evasion": 5}},
+    {"name": "Obsidian Boots", "rarity": "rare", "desc": "A set of boots of obsidian, cast from the lava of an active volcano\nImproves your chances of fleeing encounters by 5%", "type": "armor", "data": {"defense": 4, "evasion": 5}},
+    
+    {"name": "Dragon Scale Helmet", "rarity": "epic", "desc": "A powerful helmet forged from the scales of fallen dragons\nIncreases your damage by 12.5%\nImproves your chances of fleeing by 7.5%", "type": "armor", "data": {"defense": 5, "power": 12.5, "evasion": 7.5}},
+    {"name": "Dragon Scale Chestplate", "rarity": "epic", "desc": "A powerful chestplate forged from the scales of fallen dragons\nIncreases your damage by 12.5%\nImproves your chances of fleeing by 7.5%", "type": "armor", "data": {"defense": 5, "power": 12.5, "evasion": 7.5}},
+    {"name": "Dragon Scale Leggings", "rarity": "epic", "desc": "A powerful set of leggings forged from the scales of fallen dragons\nIncreases your damage by 12.5%\nImproves your chances of fleeing by 7.5%", "type": "armor", "data": {"defense": 5, "power": 12.5, "evasion": 7.5}},
+    {"name": "Dragon Scale Boots", "rarity": "epic", "desc": "A powerful set of boots forged from the scales of fallen dragons\nIncreases your damage by 12.5%\nImproves your chances of fleeing by 7.5%", "type": "armor", "data": {"defense": 5, "power": 12.5, "evasion": 7.5}},
+    
+    {"name": "Wooden Sword", "rarity": "starter", "desc": "A basic wooden sword, given to all who enter the dungeon", "type": "weapon", "data": {"power": 1}},
+    
+    {"name": "Bone Sword", "rarity": "common", "desc": "A light sword, crafted from the bone marrow of the undead that roam the dungeon's halls", "type": "weapon", "data": {"power": 2}},
+    {"name": "Stone Sword", "rarity": "common", "desc": "A stone sword, sharpened extensively to prove formidable to foes", "type": "weapon", "data": {"power": 2.5}},
+    {"name": "Iron Sword", "rarity": "rare", "desc": "A shiny iron sword, tested for generations against all sorts of enemies", "type": "weapon", "data": {"power": 3}},
+    {"name": "Obsidian Sword", "rarity": "rare", "desc": "An obsidian sword that glistens in the light, eager to be used in combat", "type": "weapon", "data": {"power": 3.5}},
+    {"name": "Dragon Scale Sword", "rarity": "epic", "desc": "A sword forged from the scales of fallen dragons, feared by all who come across it in combat", "type": "weapon", "data": {"power": 4}},
+    
+    {"name": "Smoke Bomb", "combat": true, "rarity": "common", "desc": "A small ball of packed powder that could be helpful in a bind\nImproves your chances of fleeing by 5% for your next turn", "type": "item", "data": {"turns": 1, "power": 5}},
+    {"name": "Bandages", "rarity": "common", "desc": "A set of bandages tend to your wounds\nHeals 10 health points", "type": "item", "data": {"heal": 10}},
+    {"name": "Four-Leaf Clover", "passive": true, "rarity": "epic", "desc": "A four-leaf clover, often regarded as bringing good fortune to those who hold it\nIncreases chances of gaining powerful loot or good effects from shrines", "type": "item", "data": {}},
+
+    {"name": "Dungeon Key", "rarity": "key", "desc": "A key that opens the door to the next floor", "type": "key", "passive": true}
+
+
+]   
